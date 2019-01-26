@@ -1,3 +1,5 @@
 python 3.5
 
-eyed3 and libmagic or something
+pip install eyed3
+
+eyed3 requires libmagic or something figure it out yourself ¯\_(ツ)_/¯
